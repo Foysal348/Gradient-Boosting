@@ -3,6 +3,7 @@ Project Overview
 
 This project demonstrates a complete and professional implementation of Gradient Boosting Regression using Python and scikit-learn.
 The objective is to build a high-accuracy regression model by sequentially improving predictions using residual learning.
+
 **Repository Structure**
 
 <img width="948" height="170" alt="image" src="https://github.com/user-attachments/assets/4f3f52a2-c765-431e-9686-37e469979a5e" />
