@@ -47,6 +47,7 @@ Gradient Boosting Regression is an ensemble learning method that builds a strong
 4.Widely used in real-world ML systems
 
 **Step-by-Step Methodology**
+
 *Step 1:* Import Required Libraries
 
 1.pandas, numpy
