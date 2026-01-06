@@ -112,6 +112,11 @@ Predictions generated on test data
 
 2. Helps interpret model behavior
 
+**Histogram**
+
+<img width="676" height="421" alt="image" src="https://github.com/user-attachments/assets/da59f839-d6c0-4fa7-9db3-2872e852225c" />
+
+
 *Step 9:* Save the Model
 
 Store the model
